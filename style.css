@@ -1,0 +1,20 @@
+#game {
+    background-color: blanchedalmond;
+    width: 400px;
+    height: 600px;
+    border: 5px solid black;
+}
+
+#newgame {
+    font-size: 25px;
+    background-color: cornflowerblue;
+    margin-left: 1px;
+    width: 410px;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+}
+
+#newgame:hover {
+    background-color: crimson;
+}
